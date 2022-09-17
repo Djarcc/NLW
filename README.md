@@ -6,7 +6,7 @@
 
 projeto construido no evento Next Leevel week do rocketset.
 
-🔗 [clique aqui para acessar agora](http//Djarcc.github.io/NLW)
+🔗 [clique aqui para acessar agora](http://Djarcc.github.io/NLW)
 
 ## 🧑‍💻 tecnologias 
 
