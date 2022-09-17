@@ -2,7 +2,7 @@
 
 > Trilha Explore
 
-[priview](./djarcc.github.io_NLW_.png)
+![priview](./djarcc.github.io_NLW_.png)
 
 projeto construido no evento Next Leevel week do rocketset.
 
